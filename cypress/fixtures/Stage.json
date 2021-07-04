@@ -1,0 +1,13 @@
+{
+    "validLoginCredentials": {
+        "email": "email@yopmail.com",
+        "password": "123123",
+        "updatedPassword": "123123"
+    },
+    "customCreateCompanyRequest": {
+        "latVaCompany": "25.026253184547957",
+        "longVaCompany": "55.102412664316545",
+        "latHybridVaCompany": "25.03",
+        "longHybridVaCompany": "55.12"
+    }
+}
