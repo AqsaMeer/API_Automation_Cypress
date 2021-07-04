@@ -1,0 +1,9 @@
+{
+  "chromeWebSecurity": false,
+  "defaultCommandTimeout": 40000,
+  "requestTimeout": 120000,
+  "responseTimeout": 120000,
+  "pageLoadTimeout": 120000,
+  "video": false,
+  "reporter": "cypress-mochawesome-reporter"
+}
